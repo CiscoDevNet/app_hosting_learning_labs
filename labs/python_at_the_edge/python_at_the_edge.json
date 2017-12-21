@@ -1,0 +1,34 @@
+{
+  "labId": "Python at the Edge",
+  "title": "Python at the Edge: Super Charged Network Event Management  ",
+  "slug": "Application Hosting and the Network",
+  "time": 20,
+  "byod": true,
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"},
+  ],
+  "tags": [
+    {"title": "FOG"},
+    {"title": "Python"},
+    {"title": "Data Center"},
+    {"title": "SDN"},
+    {"title": "LINUX"},
+  ],
+  "related": [
+    {
+      "labId": "Cloud to Fog",
+      "title": "Cloud to Fog… Why Host Apps in the Network "
+    },
+    {
+      "labId": "Linux at the Edge",
+      "title": "Linux at the Edge: Introduction to Guest Shell 
+"
+    }
+  ],
+  "author": [
+    {"name": "Hank Preston", "email": "hapresto@cisco.com"}
+  ]
+}
