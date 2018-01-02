@@ -1,5 +1,5 @@
 {
-  "labId": "linux_at_the_egde",
+  "labId": "Linx at the Edge",
   "title": "Linux at the Edge: Introduction to Guest Shell  ",
   "slug": "Application Hosting and the Network",
   "time": 20,
@@ -25,7 +25,7 @@
     },
     {
       "labId": "Python at the Edge",
-      "title": "Python at the Edge: Super Charged Network Event Management"
+      "title": "Python at the Edge: Super Charged Network Event Management "
     }
   ],
   "author": [
