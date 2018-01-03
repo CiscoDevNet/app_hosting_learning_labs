@@ -20,11 +20,11 @@
   ],
   "related": [
     {
-      "labId": "Cloud to Fog",
+      "labId": "cloud_to_fog",
       "title": "Cloud to Fog… Why Host Apps in the Network "
     },
     {
-      "labId": "Python at the Edge",
+      "labId": "python_at_the_edge",
       "title": "Python at the Edge: Super Charged Network Event Management "
     }
   ],
