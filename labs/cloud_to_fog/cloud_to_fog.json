@@ -17,11 +17,11 @@
   ],
   "related": [
     {
-      "labId": "Linux at the Edge",
+      "labId": "linux_at_the_edge",
       "title": "Linux at the Edge: Introduction to Guest Shell"
     },
     {
-      "labId": "Python at the Edge",
+      "labId": "python_at_the_edge",
       "title": "Python at the Edge: Super Charged Network Event Management"
     }
   ],
