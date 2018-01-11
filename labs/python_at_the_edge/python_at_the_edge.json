@@ -5,10 +5,14 @@
   "time": 20,
   "byod": true,
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"}
+    {"title": "Cisco Guest Shell Capabilities",
+     "file": "1.md"},
+    {"title": "Using Python for Network Programming",
+     "file": "2.md"},
+    {"title": "Installing and Running Python Libraries",
+     "file": "3.md"},
+    {"title": "Embedded Event Manager",
+     "file": "4.md"}
   ],
   "tags": [
     {"title": "FOG"},
@@ -28,6 +32,7 @@
     }
   ],
   "author": [
-    {"name": "Hank Preston", "email": "hapresto@cisco.com"}
+    {"name": "Hank Preston", "email": "hapresto@cisco.com",
+     "name": "Stuart Clark", "email": "stuaclar@cisco.com"}
   ]
 }
