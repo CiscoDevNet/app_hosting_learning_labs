@@ -36,5 +36,6 @@
   "author": [
     {"name": "Hank Preston", "email": "hapresto@cisco.com",
      "name": "Stuart Clark", "email": "stuaclar@cisco.com"}
-  ]
+   ],
+   "active": false
 }
